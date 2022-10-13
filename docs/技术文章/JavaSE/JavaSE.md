@@ -1,10 +1,10 @@
 ---
-title: 【vue】跨域解决方案之proxyTable
-date: 2017-12-28
+title: Java面向对象
+date: 2022-10-14
 categories:
- - frontEnd
+ - JavaSE
 tags:
- - vue
+ - 面向对象
 ---
 
 # Java面向对象编程
@@ -581,6 +581,8 @@ public static void method1(Person p){
 
       
 
+    
+    
     
     
     

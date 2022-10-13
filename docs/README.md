@@ -1,9 +1,12 @@
 ---
 home: true
-heroImage: /avatar.png
-heroText: 我的主页
-tagline: 我的主页
-actionText: 高频前端面试题 →
+heroImage: /WebLogo.png
+bgImageStyle: {
+  height: '525px'
+}
+heroText: 课余闲谈
+tagline: Enjoy All Time
+actionText: 进入阅读 →
 actionLink: https://www.yuque.com/nieyulin/lunpyu
 features:
 - title: 简洁至上
