@@ -1,5 +1,4 @@
-module.exports = {
-    compact: false,
+module.exports={
     configureWebpack: {
         resolve: {
           alias: {
@@ -12,5 +11,4 @@ module.exports = {
           maxEntrypointSize: 500000 // 整数类型（以字节为单位）
         }
       }
-    
 }
