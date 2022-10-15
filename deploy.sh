@@ -19,6 +19,6 @@ cd ..
 cd ..
 cd ..
 git add -A
-git commit 
+git commit -m 'update source'
 git push
 cd -
