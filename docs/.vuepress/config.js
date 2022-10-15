@@ -87,12 +87,12 @@ module.exports = {
       // repo: 'shrddu/shrddu.github.io',
       // 自定义仓库链接文字。默认从 `themeConfig.repo` 中自动推断为
       // "GitHub"/"GitLab"/"Bitbucket" 其中之一，或是 "Source"。
-      // repoLabel: '查看源码/文件',
+      repoLabel: '下载文章',
 
       // 以下为可选的编辑链接选项
-      editLinks: true,
+      // editLinks: true,
       // 默认为 "Edit this page"
-      editLinkText: '查看源码/文件',
+      // editLinkText: '查看源码/文件',
       //设置全局作者名称
       author: 'Haoran',
       //配置评论功能
