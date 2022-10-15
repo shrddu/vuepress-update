@@ -4,7 +4,6 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "vuepress dev docs",
     "build": "vuepress build docs",
     "deploy": "sh deploy.sh"
@@ -13,6 +12,13 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@ulu/vuepress-plugin-auto-nav": "^1.0.2",
+    "@vuepress-reco/vuepress-plugin-bgm-player": "^1.1.4",
+    "@vuepress-reco/vuepress-plugin-bulletin-popover": "^1.6.13",
+    "@vuepress-reco/vuepress-plugin-comments": "^1.6.13",
     "vue-template-compiler": "^2.7.12"
+  },
+  "devDependencies": {
+    "vuepress-plugin-auto-sidebar": "^2.3.2"
   }
 }

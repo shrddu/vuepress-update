@@ -4,8 +4,8 @@ heroImage: /WebLogo.png
 bgImageStyle: {
   height: '525px'
 }
-heroText: 课余闲谈
-tagline: Enjoy All Time
+heroText: Henu丶不想学了
+tagline: 同志！我察觉到最近你的信仰似乎有些动摇！
 actionText: 进入阅读 →
 actionLink: https://www.yuque.com/nieyulin/lunpyu
 features:
