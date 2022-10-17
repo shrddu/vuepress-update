@@ -5,7 +5,7 @@ bgImageStyle: {
   height: '525px'
 }
 heroText: 他山之石，可以攻玉
-# tagline: 
+tagline: null
 actionText: 进入阅读 →
 actionLink: https://www.yuque.com/nieyulin/lunpyu
 features:
