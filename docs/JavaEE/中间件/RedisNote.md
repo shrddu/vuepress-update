@@ -8,7 +8,15 @@ tags:
 publish: true
 ---
 
+:::tip
 
+***Redis*** 是一个开源的 ***key-value*** 存储系统。
+
+和 ***Memcached*** 类似，它支持存储的 ***value*** 类型相对更多，包括 ***string、list、set、zset、sorted set、hash***。
+
+:::
+
+<!-- more -->
 
 # Redis相关知识
 
