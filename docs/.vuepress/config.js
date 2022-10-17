@@ -111,10 +111,23 @@ module.exports = {
     theme:'vuepress-theme-reco',
     plugins:[
       //侧边栏自动生成
-      ["vuepress-plugin-auto-sidebar",{}],
+      ["vuepress-plugin-auto-sidebar",{}],4
       // ['@vuepress-reco/vuepress-plugin-bulletin-popover', {
       //   width: '260px', // 默认 260px
-      //   title: '消息提示',
+      //   title: '消息提示'
+      ['ribbon',{
+        size: 90, // width of the ribbon, default: 90
+        opacity: 0.8, // opacity of the ribbon, default: 0.3
+        zIndex: -1, // z-index property of the background, default: -1
+      }],
+      [
+        'cursor-effects',
+        {
+           size: 2, // size of the particle, default: 2
+           shape: ['star'], // shape of the particle, default: 'star' | 'circle'
+           zIndex: 999999999, // z-index property of the canvas, default: 999999999
+        },
+     ],
       //   body: [
       //     {
       //       type: 'title',

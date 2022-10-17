@@ -18,8 +18,7 @@ git push -f https://github.com/shrddu/shrddu.github.io.git master
 cd ..
 cd ..
 cd ..
-git init
 git add -A 
 git commit -m 'update source'
-git push -f https://github.com/shrddu/vuepress-update.git master
+git push
 cd -

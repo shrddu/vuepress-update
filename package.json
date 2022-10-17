@@ -16,9 +16,12 @@
     "@vuepress-reco/vuepress-plugin-bgm-player": "^1.1.4",
     "@vuepress-reco/vuepress-plugin-bulletin-popover": "^1.6.13",
     "@vuepress-reco/vuepress-plugin-comments": "^1.6.13",
+    "@vuepress-reco/vuepress-plugin-loading-page": "^1.6.13",
     "vue-template-compiler": "^2.7.12"
   },
   "devDependencies": {
-    "vuepress-plugin-auto-sidebar": "^2.3.2"
+    "vuepress-plugin-auto-sidebar": "^2.3.2",
+    "vuepress-plugin-cursor-effects": "^1.1.6",
+    "vuepress-plugin-ribbon": "^1.1.6"
   }
 }
