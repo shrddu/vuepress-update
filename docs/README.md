@@ -4,8 +4,8 @@ heroImage: /WebLogo.png
 bgImageStyle: {
   height: '525px'
 }
-heroText: Henu丶不想学了
-tagline: 同志！我察觉到最近你的信仰似乎有些动摇！
+heroText: 他山之石，可以攻玉
+# tagline: 
 actionText: 进入阅读 →
 actionLink: https://www.yuque.com/nieyulin/lunpyu
 features:
