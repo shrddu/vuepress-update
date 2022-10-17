@@ -2,7 +2,7 @@
 home: true
 heroImage: /WebLogo.png
 bgImageStyle: {
-  height: '525px'
+  height: '450px'
 }
 heroText: 他山之石，可以攻玉
 tagline: null
