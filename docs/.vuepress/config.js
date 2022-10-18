@@ -34,6 +34,7 @@ module.exports = {
             { text: '中间件', link:'/categories/中间件/'},
             { text: '框架', link:'/categories/框架/'},
             { text: '分布式', link:'/categories/分布式/'},
+            { text: '微服务', link:'/categories/微服务/'},
             { text: '插件', link:'/categories/插件/'},
             { text: '项目', link:'/categories/项目/'},
           ]
