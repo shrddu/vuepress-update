@@ -2,13 +2,13 @@ module.exports = {
     title: 'Haoran Blog',
     theme:'vuepress-theme-reco',
     head: [ // 注入到当前页面的 HTML <head> 中的标签
-      ['link', { rel: 'icon', href: '/Snipaste_2022-11-12_15-12-41.png' }], // 增加一个自定义的 favicon(网页标签的图标)
+      ['link', { rel: 'icon', href: '/WebLogo.png' }], // 增加一个自定义的 favicon(网页标签的图标)
       ['meta', { name: 'viewport', content: 'width=device-width,initial-scale=1,user-scalable=no' }]//移动端搜索框优化
     ],
     themeConfig: {
       type:'blog',
       logo: '/WebLogo.png',  // 左上角logo
-      authorAvatar: '/avatar.jpg',
+      authorAvatar: '/Snipaste_2022-11-12_15-12-41.png',
       nav: [
         { text: 'Home', link: '/' },
         {
